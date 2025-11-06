@@ -14,7 +14,7 @@ Technologies Used
 
 How to View the Website
 You can directly access the published version through GitHub Pages at the following link:
-https://lidmo11.github.io/Exercise_Unit5_website/￼
+https://lidmo11.github.io/Exercise_Unit5_website/
 Or, if you prefer, you can open it locally:
 	1.	Download or clone this repository.
 	2.	Open the index.html file with any web browser (e.g., Chrome, Edge, or Safari).
